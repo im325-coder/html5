@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML BUTTONS</h2>
+<p>html buttons are defined with button tag</p>
+<button>click me</button>
+</body>
+</html>
